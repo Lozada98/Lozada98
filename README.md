@@ -1,6 +1,6 @@
 # Hello, my name is Miguel Lozada 👋
 
-### Freelancer and Student of Software Engineering.
+###Student of Software Engineering.
 
   I am someone who seeks solutions to complex problems through research and analysis.  I enjoy learning and taking on personal challenges.  I am currently starting my career in Backend Programming studying software engineering, and the basic fundamentals of cybersecurity in a self-taught way.  Acting in the Python programming language and using frameworks such as FastAPI.
 
