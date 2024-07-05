@@ -6,8 +6,10 @@
 
 ## Technologies:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](https://nodejs.org/en)
+[![Java]([https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white))](https://www.java.com/pt-BR/)
+ 	
+
+
 <br>
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](https://www.mongodb.com/pt-br)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com/)
@@ -17,4 +19,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Lozada-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lozada98?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 [![Instagram](https://img.shields.io/badge/Instagram-@Alejandro__z-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/alejandroo__z?igshid=OGQ5ZDc2ODk2ZA==) 
-[![Facebook](https://img.shields.io/badge/Facebook-@Miguellozada-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/miguelozada989)
+
