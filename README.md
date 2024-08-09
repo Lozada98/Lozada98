@@ -21,9 +21,7 @@
 ![MongoDB](https://img.shields.io/badge/-mongoDB-0D1117?style=for-the-badge&logo=mongoDB&labelColor=0D1117)&nbsp;
 
 
-<img src="https://raw.githubusercontent.com/Lozada98/Lozada98/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e5b7d5&height=120&section=footer"/>
+
+<img src="https://raw.githubusercontent.com/Lozada98/Lozada98/output/snake.svg" alt="Snake animation" />
 
