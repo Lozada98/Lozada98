@@ -25,7 +25,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Lozada98/Lozada98/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF" />
+</div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/Lozada98/" target="_blank">
