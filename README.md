@@ -26,9 +26,7 @@
 <br clear="both">
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF" />
-</div>
+src="https://raw.githubusercontent.com/Lozada98/Lozada98/output/snake.svg" alt="Snake animation" />
 
 
 <div align="center">
