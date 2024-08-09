@@ -26,7 +26,7 @@
 <br clear="both">
 
 
-src="https://raw.githubusercontent.com/Lozada98/Lozada98/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Lozada98/Lozada98/output/snake.svg" alt="Snake animation" />
 
 
 <div align="center">
