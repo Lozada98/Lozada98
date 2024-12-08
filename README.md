@@ -20,8 +20,22 @@
 </div>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lozada98&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lozada98&layout=compact&langs_count=5&theme=dark&hide_border=true" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lozada98&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" style="transition: transform 0.3s ease;"/>
+  <img width="12"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lozada98&layout=compact&langs_count=5&theme=dark&hide_border=true" height="150" alt="Top Languages" style="transition: transform 0.3s ease;"/>
+</div>
+
+<style>
+  div[align="center"] img:hover {
+    transform: scale(1.1); /* Animación de agrandamiento al pasar el cursor */
+  }
+
+  div[align="center"] img {
+    margin: 10px; /* Separación entre imágenes */
+    transition: transform 0.3s ease;
+  }
+</style>
 
 
 <br clear="both">
