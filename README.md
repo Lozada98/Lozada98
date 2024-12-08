@@ -20,6 +20,9 @@
 </div>
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Lozada98&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lozada98&layout=compact&langs_count=5&theme=dark&hide_border=true" alt="Top Languages" />
+
 
 <br clear="both">
 
